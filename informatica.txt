@@ -1,0 +1,14 @@
+El dispositivo que se utiliza para la digitalización de imágenes y  texto se denomina:Escaner
+El envío de correo no solicitado se conoce como...:Spam
+El elemento gráfico mínimo con el que se componen las imágenes en la pantalla de una computadora se conoce como...:Pixel
+Nombre del principal dispositivo de salida de una computadora ya que gracias a el podemos observar la información.:Monitor
+Nombre de la reina de enciclopedias cooperativas:Wikipedia
+¿Como se llama la parte física de la computadora?:Hardware
+¿Como se llama la parte no fisica de la computadora?:Software
+El sistema de numeración que sólo utiliza dos dígitos, 0 y 1, se llama el sistema de número:Binario
+Una (------) es el rastro que dejas cuando navegas por Internet:Cookie
+Ciencia que se encarga del estudio y aplicación del tratamiento automático de la información:Informatica
+Dispositivo que permite la comunicación entre el usuario y la computadora:Teclado
+¿Cual es el lenguaje mas usado en programacion?:Java
+Un (---------) es la milmillonésima parte de un metro:Nanometro
+Como se la conoce a la memoria de acceso aleatorio (solo las siglas Y EN MAYUSCULA):RAM
