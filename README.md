@@ -1,7 +1,8 @@
 # Trivial BOT
 “Trivial_bot_telegram” es un juego de preguntas y respuestas enfocado a la enseñanza. Hay preguntas de todo tipo: (Matemáticas, Cultura general, Geografía, literatura e informática.)
 
-![TRIVIAL](https://github.com/SamuelFernandezPerez/Trivial_Bot_telegram-PYTHON/assets/112828488/610933b2-f519-4598-8711-c94ef905291b)
+![TRIVIAL](https://github.com/SamuelFernandezPerez/Trivial_Bot_telegram-PYTHON/assets/112828488/9796086e-7962-4f1b-a48b-8e3e2a547c8f)
+
 
 -- **Instrucciones para jugar:**
    Para iniciar el Bot hay que introducir el comando ***/Start***
